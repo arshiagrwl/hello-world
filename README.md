@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Humans!
+This is Arshi, an Artificial Intelligence enthusiast!
